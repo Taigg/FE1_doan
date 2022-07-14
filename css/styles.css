@@ -1,0 +1,170 @@
+.nav-item{
+    padding: 0 20px;
+}
+.banner{
+    background: url(../images/hero-1.jpg);
+    background-size: cover;
+    
+}
+.design-banner{
+    padding-top: 120px;
+    color: white;
+    padding-bottom: 120px;
+    margin-bottom: 100px;
+}
+.button{
+    background: #febd00;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 180px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+}
+.so{
+    font-weight: bold;
+}
+.chu{
+    font-weight: none;
+}
+.banner2{
+    background: url(../images/funfact-bg.jpg);
+    background-size: cover;
+}
+.chu2, .icon, .chu3{
+    color: #fff;
+    display: inline-block;   
+}
+.icon{
+    max-width: 100%;
+}
+.banner2{
+    padding: 100px 0;
+    margin: 100px 0;
+}
+.mid-content{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.item1{
+    border: #f0f0f0 solid 2px;
+    text-align: center;
+    padding: 100px 0px;
+    margin-bottom: 100px;
+    
+}
+.item1:hover {
+    border: #fff solid 2px;
+}
+.hinh5{
+    background: url(../images/funfact-bg.jpg);
+    background-size: cover;
+    padding: 100px 0;
+}
+.item2{
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+.chu5, .final-chu{
+    text-align: center;
+    text-decoration: none;
+    padding: 0 10px;
+    margin: 100px 0;
+}
+.chu6{
+    margin: 50px 0;
+}
+.item3{
+    padding: 20px 0;
+}
+.space{
+    padding-top: 100px;
+}
+.item3, .item4{
+    border: solid #f0f0f0 1px;
+}
+.email{
+    display: block;
+    text-decoration: none;
+    color: #000;
+}
+.final-bg{
+    background: url(../images/patern-1.png);
+    background-size: cover;
+    text-align: center;
+    padding: 50px 0;
+}
+.mau{
+    padding: 50px 0;
+}
+.mau2{
+    color: #febd00;
+}
+.tron{
+    border-radius: 50%;
+}
+.item5{
+    padding-bottom: 100px;
+}
+.final-bg{
+    background: #f8f8f8;
+    padding: 50px 0;
+}
+.final-bn{
+    background: #000;
+    padding: 100px 0;
+    color: #fff;
+}
+.thay-doi{
+    text-decoration: none;
+    color: #fff;
+}
+.thay-doi:hover{
+    color: #febd00;
+}
+.final-bg3{
+    padding-bottom: 100px;
+}
+.bot-ft{ 
+    background-color: #febd00;
+    padding: 20px 0;
+    color: #fff;
+}
+.chucuoi,.cuoi{
+    margin-left: 100px;
+}
+.cuoi{
+    display: inline;
+}
+.active1:hover{
+    color: #febd00;
+    border-bottom: #febd00 1px solid;
+}
+.bot-ft1{
+    background-color: #febd00;
+    color: #fff;  
+}
+.cuoi2{
+    margin-left: 600px;
+    display: inline;
+}
+.item1 a{
+    text-decoration: none;
+    color: #000;
+}
+.item1 a:hover{
+    text-decoration: underline #febd00 2px;
+}
+.button:hover{
+    color: #fff;
+}
+.item11{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
